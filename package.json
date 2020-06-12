@@ -1,0 +1,16 @@
+{
+  "name": "hubtel-career-notify",
+  "version": "1.0.0",
+  "description": "An application to send SMS about available hubtel job listings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clarence Love",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jsdom": "^16.2.2",
+    "twilio": "^3.46.0"
+  }
+}
